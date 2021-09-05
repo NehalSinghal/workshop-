@@ -2,19 +2,19 @@
 
 Mind Mapping
 
-[English](mmc.pdf)
-[Hindi](mmchindi.pdf)
+[ENGLISH](mmc.pdf) |
+[HINDI](mmchindi.pdf)
 
 ----
 
 Women Safety and Empowerment
 
-[English](wsae.pdf)
-[Hindi](wsaehindi.pdf)
+[ENGLISH](wsae.pdf) |
+[HINDI](wsaehindi.pdf)
 
 ----
 
 Students' Stress Management
 
-[English](students.pdf)
-[Hindi](students-hindi.pdf)
+[ENGLISH](students.pdf) |
+[HINDI](students-hindi.pdf)
