@@ -16,7 +16,7 @@ Women Safety and Empowerment
 
 ----
 
-Students' Stress Management
+Stress Management for Students
 
 [ENGLISH](students.pdf) |
 [HINDI](students-hindi.pdf)
