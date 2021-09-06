@@ -1,4 +1,6 @@
-# Formats
+# Workshops
+
+## FORMATS
 
 Mind Mapping
 
