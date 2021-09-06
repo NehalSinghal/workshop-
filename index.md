@@ -1,7 +1,5 @@
 # Workshops
 
-## FORMAT
-
 Mind Mapping
 
 [ENGLISH](mmc.pdf) |
