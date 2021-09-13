@@ -17,4 +17,10 @@ Women Safety and Empowerment
 Stress Management for Students
 
 [ENGLISH](students.pdf) |
-[HINDI](students-hindi.pdf)
+[HINDI](studentshindi.pdf)
+
+----
+
+Self Exploration for Peace 
+
+[ENGLISH](self-exp.pdf) | [HINDI](self-exp-hindi.pdf)
