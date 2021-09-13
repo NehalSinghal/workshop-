@@ -23,7 +23,6 @@ Stress Management for Students
 
 Self Exploration for Peace 
 
-[ENGLISH](self-exp.pdf) | [HINDI](self-exp-hindi.pdf)
+[ENGLISH](self-exp.pdf) |     [HINDI](self-exp-hindi.pdf)
 
-----
 
